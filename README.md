@@ -8,7 +8,7 @@
 
 #### 4. inicio el contenedor
 
-#### 5. Accedo al wordpress desde un navegador con 'http://localhost:(puerto configurado anteriormente)'
+#### 5. Accedo al wordpress desde un navegador con 'http://localhost:80'
 
 
 
